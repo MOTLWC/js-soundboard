@@ -1,0 +1,22 @@
+.gridBox {
+    margin:10px auto;
+    display: grid;
+    gap: 10px;
+    background: whitesmoke ;
+    width: 40%;
+    aspect-ratio: 1/1;
+    grid-template-columns: auto auto auto auto;
+}
+
+.soundButton {
+    width: 60%;
+    aspect-ratio: 1/1;
+    background: cornsilk;
+    margin: auto;
+    text-align: center;
+    color:violet
+}
+.logo{
+    display:block;
+    margin:0 auto;
+}
